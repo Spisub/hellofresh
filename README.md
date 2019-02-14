@@ -1,2 +1,2 @@
-# hellofresh
+# HelloFresh
 Hello Fresh Assignment
